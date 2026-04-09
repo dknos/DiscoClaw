@@ -14,13 +14,21 @@ It is not a chatbot. It is not a wrapper around one API. It is an autonomous cre
 All four agents talk to each other, share memory through Qdrant, and publish to Instagram, YouTube, and Facebook — without any human touching a browser.
 
 <p align="center">
-  <img src="assets/image-gen.png" width="280" alt="ZImage Turbo generation with button flow" />
-  <img src="assets/video-edit.png" width="280" alt="9-clip brainslop video edit" />
-  <img src="assets/suno-music.png" width="280" alt="Suno music + video generation" />
+  <img src="assets/image-gen.png" width="320" alt="ZImage Turbo generation with button flow" />
+  &nbsp;&nbsp;
+  <img src="assets/suno-music.png" width="320" alt="Suno music + video generation" />
 </p>
 
 <p align="center">
-  <em>Image gen with button flow &nbsp;·&nbsp; 9-clip video edit &nbsp;·&nbsp; Suno music + video gen</em>
+  <em>Image gen with button flow &nbsp;&nbsp;·&nbsp;&nbsp; Suno music + video gen</em>
+</p>
+
+<p align="center">
+  <img src="assets/video-edit.png" width="660" alt="9-clip brainslop video edit" />
+</p>
+
+<p align="center">
+  <em>9-clip video edit with beat-sync, transitions &amp; effects</em>
 </p>
 
 ## What it does
